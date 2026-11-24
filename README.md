@@ -65,7 +65,7 @@ erDiagram
 
 1. Open [Oracle Live SQL](https://livesql.oracle.com) (free) or any Oracle 23ai database.
 2. Run `schema.sql`, then `seed.sql`.
-3. Run `queries.sql` and the files in `plsql/` in order.
+3. Run `queries.sql` and the files in `plsql/` in order: `cursor_student_course_counts.sql`, `procedure_get_course_stats.sql`, `trigger_trg_grade_audit.sql`.
 
 ## Next
 
